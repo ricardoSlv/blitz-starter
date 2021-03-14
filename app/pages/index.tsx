@@ -129,7 +129,7 @@ const Home: BlitzPage = () => {
         </a>
       </footer>
 
-      <style jsx global>{`
+      <style jsx scoped>{`
         @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;700&display=swap");
 
         html,
